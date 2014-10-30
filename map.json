@@ -39,14 +39,6 @@
         "style/stylus/foo.styl": {
             "uri": "http://localhost:8080/style/stylus/foo_aa58274.css",
             "type": "css"
-        },
-        "template/ejs/foo.ejs": {
-            "uri": "http://localhost:8080/template/ejs/foo_2160f8a.js",
-            "type": "js"
-        },
-        "template/handlebars/foo.handlebars": {
-            "uri": "http://localhost:8080/template/handlebars/foo_5038243.js",
-            "type": "js"
         }
     },
     "pkg": {}
