@@ -1,0 +1,13 @@
+.styl a {
+  font: 12px/1.4 "Lucida Grande", Arial, sans-serif;
+  background: #000;
+  color: #ccc;
+}
+.styl form input {
+  padding: 5px;
+  border: 1px solid;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background: url("http://localhost:8080/style/stylus/compress_c6c2197.png");
+}

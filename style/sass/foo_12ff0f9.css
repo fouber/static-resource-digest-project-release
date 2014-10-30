@@ -1,0 +1,9 @@
+.div {
+  color: blue; }
+  .div .b {
+    color: black;
+    font-weight: bold;
+    text-decoration: none; }
+    .div .b .c {
+      color: white;
+      background: url(http://localhost:8080/style/sass/comment_db53484.png); }

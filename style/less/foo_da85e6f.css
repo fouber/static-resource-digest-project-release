@@ -1,0 +1,39 @@
+/**
+ * @see http://www.lesscss.net/features/
+ */
+/* import */
+.class {
+  width: 50%;
+  color: #f6430f;
+  background-color: #f8b38d;
+}
+/* Variables */
+#header {
+  color: #6c94be;
+}
+/* Mixins */
+.bordered {
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+#menu a {
+  color: #111;
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+.post a {
+  color: red;
+  border-top: dotted 1px black;
+  border-bottom: solid 2px black;
+}
+/* Nesting */
+#header {
+  color: black;
+}
+#header .navigation {
+  font-size: 12px;
+}
+#header .logo {
+  width: 300px;
+  background: url(http://localhost:8080/style/less/chart_curve_de7ee2e.png);
+}

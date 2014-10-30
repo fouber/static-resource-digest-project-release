@@ -1,0 +1,53 @@
+{
+    "res": {
+        "script/coffeescript/foo.coffee": {
+            "uri": "http://localhost:8080/script/coffeescript/foo_7d83d78.js",
+            "type": "js"
+        },
+        "script/js/handlebars.runtime-v1.3.0.js": {
+            "uri": "http://localhost:8080/script/js/handlebars.runtime-v1.3.0_c7420cd.js",
+            "type": "js"
+        },
+        "script/js/use-templates.js": {
+            "uri": "http://localhost:8080/script/js/use-templates_1958c4e.js",
+            "type": "js"
+        },
+        "style/css/font-awesome.css": {
+            "uri": "http://localhost:8080/style/css/font-awesome_ecf86ee.css",
+            "type": "css"
+        },
+        "style/css/github.css": {
+            "uri": "http://localhost:8080/style/css/github_44d656a.css",
+            "type": "css"
+        },
+        "style/css/markdown.css": {
+            "uri": "http://localhost:8080/style/css/markdown_5281bc3.css",
+            "type": "css"
+        },
+        "style/less/foo.less": {
+            "uri": "http://localhost:8080/style/less/foo_da85e6f.css",
+            "type": "css"
+        },
+        "style/sass/foo.sass": {
+            "uri": "http://localhost:8080/style/sass/foo_12ff0f9.css",
+            "type": "css"
+        },
+        "style/scss/foo.scss": {
+            "uri": "http://localhost:8080/style/scss/foo_1edc3ce.css",
+            "type": "css"
+        },
+        "style/stylus/foo.styl": {
+            "uri": "http://localhost:8080/style/stylus/foo_aa58274.css",
+            "type": "css"
+        },
+        "template/ejs/foo.ejs": {
+            "uri": "http://localhost:8080/template/ejs/foo_2160f8a.js",
+            "type": "js"
+        },
+        "template/handlebars/foo.handlebars": {
+            "uri": "http://localhost:8080/template/handlebars/foo_5038243.js",
+            "type": "js"
+        }
+    },
+    "pkg": {}
+}
